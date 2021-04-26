@@ -1,0 +1,7 @@
+This code implements the following adaptation algorithm:
+
+P. Juluri, V. Tamarapalli, and D. Medhi, 
+SARA: Segment Aware Rate Adaptation Algorithm for Dynamic Adaptive Streaming Over HTTP,
+IEEE International Conference on Communication Workshop, June 2015.
+
+--
